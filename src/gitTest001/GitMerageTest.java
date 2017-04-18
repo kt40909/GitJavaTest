@@ -17,4 +17,4 @@ public class GitMerageTest {
 		System.out.println("sb0.length()=" + sb0.length());
 	}
 }
-}
+
